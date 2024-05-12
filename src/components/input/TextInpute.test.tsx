@@ -2,7 +2,7 @@ import { render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import TextInput from './TextInput'
 
-test('TextInput Component test meeodwwwwwwwwwewww', async () => {
+test('TextInput Component test meeodwweeeeeeeewwwwwwwewww', async () => {
     const user = userEvent.setup()
     render(<TextInput />)
 
